@@ -15,7 +15,7 @@ Pivot tables were employed to aggregate and summarize the data, facilitating sea
 The analysis revealed the following :
 - The bikes category leads with $69,208,196 in revenue, comprising 66.34% of the total profit. Accessories follow, generating $16,712,646 (24.82% of profit), while clothing records $9,255,476 (8.84% of profit).
 - The United States contributed the highest revenue, reaching $30,814,774 for the company.
-- Revenue exhibited an upward trend in May, reachinfg in its peak in June.
+- Revenue exhibited an upward trend in May, reachinig in its peak in June.
 
 Leveraging the insights presented, strategic initiatives are recommended for implementation to enhance both profitability and market prominence:
 - Addressing the clothing category is crucial as it recorded the lowest revenue and contributed the least profit. A thorough assessment of its product range, pricing, and cost-saving measures is imperative.
