@@ -3,7 +3,7 @@
 This project showcases a high level of expertise in examining extensive sales data to uncover important patterns, identify top-selling products, and derive essential revenue metrics. The objective is to enable data-driven decision-making that can guide strategic improvements to enhance sales strategies.
 
 ## Data Cleaning 
-The data cleaning process involved rectifying calculation errors in the "Profit," "Cost," and "Revenue" columns. The adjustments included updating "Revenue" (Unit_Price * Order_Quantity), "Cost" (Unit_Cost * Order_Quantity), and determining "Profit" (Revenue - Cost). A thorough check and removal of duplicate records were carried out to improve the accuracy and reliability of the dataset for analysis.
+The data cleaning process involved rectifying calculation errors in the "Profit," "Cost," and "Revenue" columns. The adjustments included updating "Revenue" (Unit_Price * Order_Quantity), "Cost" (Unit_Cost * Order_Quantity), and determining "Profit" (Revenue - Cost). A thorough check and removal of duplicate records was carried out to improve the accuracy and reliability of the dataset for analysis.
 
 ## Excel Dashboard
 A comprehensive Excel dashboard was developed to present key findings and visualizations from the data analysis. This interactive dashboard features charts, tables, and pivot tables, offering an intuitive and thorough perspective on the data.
@@ -15,9 +15,9 @@ Pivot tables were employed to aggregate and summarize the data, facilitating sea
 The analysis revealed the following :
 - The bikes category leads with $69,208,196 in revenue, comprising 66.34% of the total profit. Accessories follow, generating $16,712,646 (24.82% of profit), while clothing records $9,255,476 (8.84% of profit).
 - The United States contributed the highest revenue, reaching $30,814,774 for the company.
-- The revenue shows a gradual increase in May, reaching its peak in June.
+- Revenue exhibited an upward trend in May, reachinfg in its peak in June.
 
-  Leveraging the insights presented, strategic initiatives are recommended for implementation to enhance both profitability and market prominence:
+Leveraging the insights presented, strategic initiatives are recommended for implementation to enhance both profitability and market prominence:
 - Addressing the clothing category is crucial as it recorded the lowest revenue and contributed the least profit. A thorough assessment of its product range, pricing, and cost-saving measures is imperative.
 - The decline in revenue from its peak in July requires further investigation. Examining this trend is essential to devise incentives and strategies aimed at boosting sales during this period.
 - The bike and accessories categories, recognized for their substantial revenue contributions, warrant exploration for potential opportunities through diversification and substantial investments in effective marketing campaigns.
